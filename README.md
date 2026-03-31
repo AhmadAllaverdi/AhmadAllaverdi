@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ahmad Allaverdi 👋
 
-<!--
-**AhmadAllaverdi/AhmadAllaverdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python-focused developer who values clean architecture, readable code, and practical solutions.  
+I enjoy building reliable systems that are simple to maintain and effective in real-world use.
 
-Here are some ideas to get you started:
+## Professional Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Designing backend logic with clarity and scalability in mind  
+- Writing maintainable, well-structured Python code  
+- Solving real problems with efficient and measurable outcomes  
+- Continuously improving engineering standards and workflow quality  
+
+## Core Skills
+
+- Python  
+- API Development  
+- Automation & Scripting  
+- Data Processing  
+- Backend System Design  
+- Git & GitHub  
+
+## Working Style
+
+- Clear communication  
+- Strong ownership  
+- Consistent execution  
+- Quality-first mindset  
+
+## Contact
+
+- GitHub: [@AhmadAllaverdi](https://github.com/AhmadAllaverdi)
+
+---
+
+> Build simple. Build useful. Build it well.
